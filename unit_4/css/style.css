@@ -11,10 +11,10 @@ h1, p {
 	font-family: 'Chewy', cursive;
 	font-size: 28px;
 	line-height: 1.5em;
-	margin: : 2em;
+	margin: : 1em;
 	color: black;
 }
 
-h2, ul {
-	font-size: 20px;
+h2 {
+	font-size: 24px;
 }
