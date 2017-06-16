@@ -1,0 +1,14 @@
+
+body {
+	background-color: blue;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Chewy');
+
+h1, p {
+	font-family: 'Chewy', cursive;
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: : 2em;
+	color: yellow;
+}
