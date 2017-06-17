@@ -1,11 +1,14 @@
 
 body {
-	background-color: blue;
+	background-color: #A5FF33;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Chewy');
 
 l
+h1 {
+	background: blue;
+}
 
 h1, p {
 	font-family: 'Chewy', cursive;
@@ -17,4 +20,20 @@ h1, p {
 
 h2 {
 	font-size: 24px;
+}
+
+h2, ul {
+	background: blue;
+}
+
+head, title {
+	background: blue;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+nav {
+	 font-family: 'Archivo Black', sans-serif;
+     font-size: 30px;
+     background: #FF7733;
 }
